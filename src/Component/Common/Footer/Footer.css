@@ -1,0 +1,11 @@
+.footerImg{
+    background:linear-gradient(140deg,#052a6e,transparent, #210146),url('../../../images/footerBG.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    text-decoration: none;
+}
+.footerImg a{
+    color: #ffffff;
+    text-decoration: none;
+}
